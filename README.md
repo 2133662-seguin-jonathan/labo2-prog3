@@ -22,12 +22,8 @@
 
 ### Classes:
 
-| Classes | Héritage |
-| ----------- | ----------- | 
-| Magicien | Aucune |
-| Baton | Aucune |
-| Sort | Aucune |
-| Guerison | Sort |
-| Protection | Sort |
-| Incinerateur | Sort |
-| Foudre | Sort |
+| Classes | 
+| ----------- | 
+| Magicien | 
+| Baton | 
+| Sort | 

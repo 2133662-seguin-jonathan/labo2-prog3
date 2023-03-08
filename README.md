@@ -24,4 +24,5 @@
 
 | Classes | 
 | ----------- |
-| Aucune | 
+| Magicien | 
+| Baton |

@@ -98,16 +98,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Creature.cpp" />
+    <ClCompile Include="Baton.cpp" />
+    <ClCompile Include="Magicien.cpp" />
     <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Niveau.cpp" />
-    <ClCompile Include="Point2D.cpp" />
+    <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="constantes.h" />
-    <ClInclude Include="Creature.h" />
-    <ClInclude Include="Niveau.h" />
-    <ClInclude Include="Point2D.h" />
+    <ClInclude Include="Baton.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="Magicien.h" />
+    <ClInclude Include="Sort.h" />
+    <ClInclude Include="utilitaires.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
